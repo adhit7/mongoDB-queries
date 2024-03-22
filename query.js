@@ -73,7 +73,7 @@ db.mentors.find({
   },
 });
 
-//6. Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
+//6. Find the number of users who are absent and task is not submitted  between 15 oct-2023 and 31-oct-2023
 db.attendance.aggregate([
   {
     $match: {
