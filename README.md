@@ -1,4 +1,4 @@
-# Mongo DB based on LMS queries
+# Mongo DB queries based on LMS model
 
 1.Find all the topics and tasks which are thought in the month of October.<br>
 
