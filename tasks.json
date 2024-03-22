@@ -1,0 +1,50 @@
+[
+  {
+    "userId": 2005,
+    "task": "HTML",
+    "dueDate": "2023-10-14T18:30:00.000Z",
+    "completedTask": true,
+    "taskId": 100,
+    "topicId": 1
+  },
+  {
+    "userId": 2006,
+    "task": "CSS",
+    "dueDate": "2023-10-19T18:30:00.000Z",
+    "completedTask": false,
+    "taskId": 101,
+    "topicId": 2
+  },
+  {
+    "userId": 2007,
+    "task": "Javascript",
+    "dueDate": "2023-10-23T18:30:00.000Z",
+    "completedTask": true,
+    "taskId": 103,
+    "topicId": 3
+  },
+  {
+    "userId": 2008,
+    "task": "ReactJs",
+    "dueDate": "2023-10-27T18:30:00.000Z",
+    "completedTask": false,
+    "taskId": 104,
+    "topicId": 4
+  },
+  {
+    "userId": 2009,
+    "task": "Redux",
+    "dueDate": "2023-11-14T18:30:00.000Z",
+    "completedTask": false,
+    "taskId": 105,
+    "topicId": 5
+  },
+  {
+    "userId": 2010,
+    "task": "NodeJs",
+    "dueDate": "2023-11-19T18:30:00.000Z",
+    "completedTask": false,
+    "taskId": 106,
+    "topicId": 6
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "mentorID": 10001,
+    "mentorName": "Dhivya",
+    "studentsId": [2005, 2007]
+  },
+  {
+    "mentorID": 10002,
+    "mentorName": "Saran",
+    "studentsId": [2006, 2009]
+  },
+  {
+    "mentorID": 10003,
+    "mentorName": "Guru",
+    "studentsId": [2008, 2010]
+  }
+]

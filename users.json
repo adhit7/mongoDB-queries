@@ -1,0 +1,32 @@
+[
+  {
+    "userId": 2005,
+    "name": "Adhi",
+    "email": "ad@gmail.com"
+  },
+  {
+    "userId": 2006,
+    "name": "Dhawan",
+    "email": "dhawan@gmail.com"
+  },
+  {
+    "userId": 2007,
+    "name": "Alan",
+    "email": "alan@gmail.com"
+  },
+  {
+    "userId": 2008,
+    "name": "Aman",
+    "email": "aman@gmail.com"
+  },
+  {
+    "userId": 2009,
+    "name": "Arun",
+    "email": "arun@gmail.com"
+  },
+  {
+    "userId": 2010,
+    "name": "Vijay",
+    "email": "vijay@gmail.com"
+  }
+]

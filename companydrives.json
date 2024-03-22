@@ -1,0 +1,38 @@
+[
+  {
+    "company": "Google",
+    "userId": 2005,
+    "driveDate": "2023-10-18T18:30:00.000Z",
+    "attended": true
+  },
+  {
+    "company": "Meta",
+    "userId": 2006,
+    "driveDate": "2023-10-14T18:30:00.000Z",
+    "attended": false
+  },
+  {
+    "company": "Apple",
+    "userId": 2007,
+    "driveDate": "2023-10-17T18:30:00.000Z",
+    "attended": false
+  },
+  {
+    "company": "Netflix",
+    "userId": 2008,
+    "driveDate": "2023-10-19T18:30:00.000Z",
+    "attended": true
+  },
+  {
+    "company": "Meta",
+    "userId": 2009,
+    "driveDate": "2023-10-21T18:30:00.000Z",
+    "attended": false
+  },
+  {
+    "company": "Uber",
+    "userId": 2010,
+    "driveDate": "2023-10-24T18:30:00.000Z",
+    "attended": true
+  }
+]
